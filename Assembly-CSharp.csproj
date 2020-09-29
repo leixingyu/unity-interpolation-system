@@ -65,10 +65,10 @@
     <Compile Include="Assets\Script\SphereInterpolation.cs" />
     <Compile Include="Assets\Script\Squad.cs" />
     <Compile Include="Assets\Script\Utility.cs" />
-    <None Include="Assets\Resource\XML\point.xml" />
-    <None Include="Assets\Resource\XML\throw.xml" />
-    <None Include="Assets\Resource\XML\size.xml" />
-    <None Include="Assets\Resource\XML\beat.xml" />
+    <None Include="Assets\Resource\XML\Deictic.xml" />
+    <None Include="Assets\Resource\XML\Metaphoric.xml" />
+    <None Include="Assets\Resource\XML\Iconic.xml" />
+    <None Include="Assets\Resource\XML\Beat.xml" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Lei/Desktop/Interpolation-Proj/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
