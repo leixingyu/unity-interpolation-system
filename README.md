@@ -10,4 +10,15 @@ Given any number of keyframes, the system will generate in-between keyframes usi
 
 The mathematical equations, motion curves and velocity graphs are well studied. My thesis focuses on the perceptional aspect of evaluating these interpolations on upper-body character animation, as upper-body movements are more expressive. Four types of body gestures will be recorded using motion capture technology and to be extracted into limited keyframes. These keyframes will then populate as the animation stimuli. 
 
-An playlist used for my pilot study can be found here: https://www.youtube.com/playlist?list=PLsyUQwBMw6ZIIrFwQBfxO3OyhxCFRlWAr
+![InterpolationSphere](https://media1.giphy.com/media/a2EjPdVi7PAvVlMb4f/giphy.gif)
+
+(IMG. from left to right: Linear Euler, Slerp, Squad)
+
+An playlist used for my pilot study can be found here: 
+
+https://www.youtube.com/playlist?list=PLsyUQwBMw6ZIIrFwQBfxO3OyhxCFRlWAr
+
+An playlist used for my main study can be found here: 
+
+https://www.youtube.com/playlist?list=PLsyUQwBMw6ZKN3ATNf_bm-Cv_HPIycZ0S
+
